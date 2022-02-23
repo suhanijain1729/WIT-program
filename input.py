@@ -1,4 +1,4 @@
-from winreg import HKEY_LOCAL_MACHINE
+
 
 
 a=input("Enter the Name")
